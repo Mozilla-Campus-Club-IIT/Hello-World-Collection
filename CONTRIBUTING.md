@@ -11,7 +11,7 @@ in the **collection** Folder
     eg: JavaScript_saidHello
 ```
 ## Do's
-1. DO submit If you found another way, with the naming convenstion which was showed above with the relavent number
+1. DO submit If you found another way, with the naming convenstion which is shown below.
  ```markdown
    eg: JavaScript_saidHello_2
 ```
