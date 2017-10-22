@@ -1,0 +1,1 @@
+console.log('Hello world!'); //try this in inpector tool -> console
