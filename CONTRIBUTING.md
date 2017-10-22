@@ -11,11 +11,11 @@ in the **collection** Folder
     eg: JavaScript_saidHello
 ```
 ## Do's
-1. Do submit If you found another way, with the naming convenstion which was showed above with the relavent number
+1. DO submit If you found another way, with the naming convenstion which was showed above with the relavent number
  ```markdown
    eg: JavaScript_saidHello_2
 ```
-2. Do comment on the code
+2. DO comment on the code
 
 ## File Location
 
