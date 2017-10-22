@@ -8,7 +8,7 @@ in the **collection** Folder
 2. DO NOT break the code while modifying already submitted code (Avoid Destruction)
 3. DO NOT break the Naming Convenstion of files "Name of the Language" + "said Hello"
 
-eg: JavaScript said Hello
+eg: JavaScript_saidHello
 
 ## File Location
 
