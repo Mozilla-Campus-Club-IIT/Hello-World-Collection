@@ -2,13 +2,20 @@
 As a general rule of thumb, please check the current submission to gain an idea of what is to be submitted
 in the **collection** Folder
 
-## Don'ts in General
+## Don'ts
 
 1. DO NOT submit a Hello World Program which was already submitted. (Avoid Dublication)
-2. DO NOT break the code while modifying already submitted code (Avoid Destruction)
-3. DO NOT break the Naming Convenstion of files "Name of the Language" + "said Hello"
-
-eg: JavaScript_saidHello
+2. DO NOT modifying already submitted code (Avoid Destruction)
+3. DO NOT break the Naming Convenstion of files "Name of the Language"_"said Hello"
+```markdown
+    eg: JavaScript_saidHello
+```
+## Do's
+1. Do submit If you found another way, with the naming convenstion which was showed above with the relavent number
+ ```markdown
+   eg: JavaScript_saidHello_2
+```
+2. Do comment on the code
 
 ## File Location
 
