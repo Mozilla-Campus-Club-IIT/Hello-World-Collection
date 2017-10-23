@@ -6,9 +6,10 @@ in the **collection** Folder
 
 1. DO NOT submit a Hello World Program which was already submitted. (Avoid Dublication)
 2. DO NOT modifying already submitted code (Avoid Destruction)
-3. DO NOT break the Naming Convenstion of files **<Name of the Language>_saidHello.<extension>**
+3. DO NOT break the Naming Convenstion of files 
 ```
-    eg: JavaScript_saidHello.js
+    eg: <Name of the Language>_saidHello.<extension>
+        JavaScript_saidHello.js
 ```
 ## Do's
 1. DO submit If you found another way to print hello world, with the naming convenstion
