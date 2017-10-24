@@ -21,7 +21,8 @@ in the **collection** Folder
     
 ## Expected output
 
-Print ```hello world``` on screen
+- Print `hello world` on screen
+- ```Using Comments``` write a small introduction to the Language in the respective file itself.
 
 ## File location
 
