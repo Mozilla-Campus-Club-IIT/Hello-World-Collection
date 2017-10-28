@@ -4,7 +4,7 @@ in the **collection** Folder
 
 ## Don'ts
 
-1. DO NOT submit a Hello World Program which was already submitted. (Avoid Dublication)
+1. DO NOT submit a Hello World Program which was already submitted. (Avoid Duplication)
 2. DO NOT modifying already submitted code (Avoid Destruction)
 3. DO NOT break the Naming Convenstion of files 
 ```
