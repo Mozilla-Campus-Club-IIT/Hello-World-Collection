@@ -1,0 +1,9 @@
+// usage: 
+// <div class="hello-world"></div>
+// demo: https://jsfiddle.net/jaf0/3oqcq1r3/
+
+.hello-world {
+  &:before{
+    content: "Hello World!";
+  }
+}
