@@ -17,7 +17,9 @@ in the **collection** Folder
  ```
    eg: JavaScript_saidHello_2.js
 ```
-2. DO comment on the code, Some languages are hard to understand. 
+2. DO comment on the code, Some languages are hard to understand.
+3. DO submit "Hello Worlds" even though the language you prefer is not listed under the collection Folder
+   or under issues folder, might be interesting to review and include in the project.
     
 ## Expected output
 
