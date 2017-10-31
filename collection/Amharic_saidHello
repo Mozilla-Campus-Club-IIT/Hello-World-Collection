@@ -1,0 +1,6 @@
+<%@ language="javascript" %>
+<html><body>
+<%
+Response.Write('Hello world');
+%>
+</body></html>
