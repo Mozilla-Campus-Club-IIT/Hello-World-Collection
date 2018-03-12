@@ -1,0 +1,13 @@
+#include <qapplication.h>
+#include <QLabel>
+
+
+int main( int argc, char **argv ) {
+    QApplication app( argc, argv );
+
+    QLabel *label = new QLabel("<h2><i>Hello World! from </i> " "<font color=red>Qt!</font></h2>");
+    label->resize(500, 500);
+
+    label->show();
+    return app.exec();
+}
